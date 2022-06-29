@@ -90,3 +90,25 @@ header .logo h1:hover {
 .bg-description a:active {
   outline: 5px solid rgba(32, 178, 170, 0.3);
 }
+
+.second {
+  background-image: url(./images/hawaii.jpg);
+}
+
+.third {
+  background-image: url(./images/norway.jpg);
+}
+
+.fourth {
+  background-image: url(./images/rome.jpg);
+}
+
+.fifth {
+  background-image: url(./images/greece.jpg);
+}
+
+footer p {
+  text-align: center;
+  font-size: 1.3rem;
+  margin-bottom: 50px;
+}
